@@ -1,4 +1,6 @@
 data/*.csv
+!data/massive/
+!data/massive/*.csv
 results/
 *.asv
 *.autosave
